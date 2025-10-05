@@ -32,14 +32,5 @@
       ],
       "enabledDefault": true
     }
-    {
-      "id": "re-design",
-      "name": "NEO-Дизайн (LOGS)" ,
-      "url": "",
-      "matches": [
-        "https://logs.blackrussia.online/gslogs/*"
-      ],
-      "enabledDefault": true
-    }
   ]
 }
