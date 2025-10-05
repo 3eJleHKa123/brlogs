@@ -27,7 +27,7 @@
       "id": "re-design",
       "name": "Design Logs",
       "matches": ["https://logs.blackrussia.online/gslogs/*"],
-      "url": "",
+      "url": "https://raw.githubusercontent.com/3eJleHKa123/brlogs/refs/heads/main/re-design.js",
       "enabledDefault": true
     },
         {
