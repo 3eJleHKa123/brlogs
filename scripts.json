@@ -23,6 +23,13 @@
       ],
       "enabledDefault": true
     },
+    {
+      "id": "re-design",
+      "name": "Design Logs",
+      "matches": ["https://logs.blackrussia.online/gslogs/*"],
+      "url": "",
+      "enabledDefault": true
+    },
         {
       "id": "forumkts",
       "name": "Форумный скрипт для КТС/ЗКТС" ,
